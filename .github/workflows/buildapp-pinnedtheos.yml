@@ -3,7 +3,7 @@
 # https://github.com/ISnackable/YTCubePlus/blob/main/.github/workflows/Build.yml
 # https://github.com/BandarHL/BHTwitter/actions/workflows/build.yml
 
-name: Build and Package SCInsta
+name: Build and Package SCInsta with Pinned Theos
 
 on:
     workflow_dispatch:
